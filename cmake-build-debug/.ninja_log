@@ -1,0 +1,23 @@
+# ninja log v6
+1323	1737	7492565564662229	10_color_keying.exe	d8d0f0a59ebef0f
+1308	1777	7492566339760217	template_project.exe	4f3f98ecd97819b5
+5	796	7495766160150187	CMakeFiles/refactored_2d_shootemup.dir/structs.cpp.obj	b03f5b98216bc268
+130	1158	7495796429295416	CMakeFiles/refactored_2d_shootemup.dir/draw.cpp.obj	65725e6930031fd5
+670	1092	7495767953994378	refactored_2d_shootemup.exe	40b3c9d0d0743e16
+35	856	7495796428345414	CMakeFiles/refactored_2d_shootemup.dir/init.cpp.obj	6bf394e79507663f
+194	1302	7495796429935417	CMakeFiles/refactored_2d_shootemup.dir/main.cpp.obj	97aaa2c6e7405db8
+81	1016	7495796428805413	CMakeFiles/refactored_2d_shootemup.dir/doInput.cpp.obj	b69ba30c2bb8a311
+228	1046	7495789980605454	CMakeFiles/refactored_2d_shootemup.dir/stage.cpp.obj	2537b1b96c186ed2
+2	325	7495796532315637	build.ninja	48bec2cf8e7316b8
+175	1156	7495836565132509	CMakeFiles/refactored_2d_shootemup.dir/draw.cpp.obj	65725e6930031fd5
+142	1145	7495836684657138	CMakeFiles/refactored_2d_shootemup.dir/draw.cpp.obj	65725e6930031fd5
+173	1177	7495837405009158	CMakeFiles/refactored_2d_shootemup.dir/draw.cpp.obj	65725e6930031fd5
+159	1130	7495838345598999	CMakeFiles/refactored_2d_shootemup.dir/draw.cpp.obj	65725e6930031fd5
+166	1191	7495838596762433	CMakeFiles/refactored_2d_shootemup.dir/draw.cpp.obj	65725e6930031fd5
+4	715	7495838851115877	CMakeFiles/refactored_2d_shootemup.dir/structs.cpp.obj	b03f5b98216bc268
+4	724	7495839252102797	CMakeFiles/refactored_2d_shootemup.dir/structs.cpp.obj	b03f5b98216bc268
+48	870	7495839252552802	CMakeFiles/refactored_2d_shootemup.dir/init.cpp.obj	6bf394e79507663f
+112	1024	7495839253182800	CMakeFiles/refactored_2d_shootemup.dir/doInput.cpp.obj	b69ba30c2bb8a311
+160	1168	7495839253662796	CMakeFiles/refactored_2d_shootemup.dir/draw.cpp.obj	65725e6930031fd5
+213	1343	7495839254202806	CMakeFiles/refactored_2d_shootemup.dir/main.cpp.obj	97aaa2c6e7405db8
+1343	1830	7495839265489313	refactored_2d_shootemup.exe	ebcd8e635989f474
